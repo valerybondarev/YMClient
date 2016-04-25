@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Categories List</string>
+    <string name="empty_list_text">Pull to download categories list</string>
+    <string name="title_activity_inner">InnerActivity</string>
+
+    <string name="no_children">I have no children</string>
+
+    <string name="action_update">Update</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="network_error">Something is wrong with the internet. Please check you network connection.</string>
+
+
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="list_item_text_size">25sp</dimen>
+    <dimen name="list_item_left_margin">10sp</dimen>
+    <dimen name="empty_list_padding_top">20sp</dimen>
+    <dimen name="empty_list_text_size">20sp</dimen>
+</resources>
